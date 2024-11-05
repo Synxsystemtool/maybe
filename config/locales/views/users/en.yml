@@ -1,6 +1,6 @@
 ---
 en:
-  users:
+  users: synxsystem
     destroy:
       success: Your account has been deleted.
     update:
