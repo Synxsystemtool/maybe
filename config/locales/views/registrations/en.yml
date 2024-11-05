@@ -2,10 +2,10 @@
 en:
   helpers:
     label:
-      user:
+      user: systemsynx
         invite_code: Invite Code
     submit:
-      user:
+      user:synxsystem
         create: Continue
   registrations:
     create:
